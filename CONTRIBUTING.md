@@ -1,4 +1,3 @@
-To create a `CONTRIBUTING.md` file for your project with the Apache License, you can provide guidelines for potential contributors. Here's a basic template you can use:
 
 ```markdown
 # Contributing to WatchDog Packet Analyzer
