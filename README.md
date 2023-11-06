@@ -12,7 +12,7 @@ WatchDog Packet Analyzer is a Python script for capturing and analyzing network 
 
 ## Developer
 
-- **Developer:** Tharunaditya Anuganti
+- **Developer:** [Tharunaditya Anuganti](https://www.linkedin.com/in/tharunaditya-anuganti/)
 
 ## Features
 
