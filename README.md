@@ -4,7 +4,7 @@ Watchdog v1.0 is a Python-based program designed for capturing and analyzing net
 
 # WatchDog Packet Analyzer
 
-![Banner](watchdog_banner.png)
+![Banner](https://github.com/Tharunaditya/watch-dog/blob/main/Banner.png?raw=true)
 
 ## Overview
 
@@ -33,8 +33,8 @@ WatchDog Packet Analyzer is a Python script for capturing and analyzing network 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/watchdog-packet-analyzer.git
-   cd watchdog-packet-analyzer
+   git clone https://github.com/Tharunaditya/watch-dog
+   cd watch-dog
    ```
 
 2. Install the required libraries:
@@ -46,7 +46,7 @@ WatchDog Packet Analyzer is a Python script for capturing and analyzing network 
 3. Run the WatchDog Packet Analyzer:
 
    ```bash
-   python watchdog.py
+   python WatchDog v1.0.py
    ```
 
 4. Follow the on-screen instructions to select a packet filter and specify the number of packets to capture.
@@ -65,9 +65,9 @@ WatchDog Packet Analyzer is a Python script for capturing and analyzing network 
 
 ## Contribution
 
-If you want to contribute to this project, please refer to the [contribution guidelines](CONTRIBUTING.md) for rules and guidelines.
+If you want to contribute to this project, please refer to the [contribution guidelines](https://github.com/Tharunaditya/watch-dog/blob/main/CONTRIBUTING.md) for rules and guidelines.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](https://github.com/Tharunaditya/watch-dog/blob/main/LICENSE) file for details.
 ```
