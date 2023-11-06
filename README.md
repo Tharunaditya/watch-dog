@@ -70,4 +70,4 @@ If you want to contribute to this project, please refer to the [contribution gui
 ## License
 
 This project is licensed under the Apache License - see the [LICENSE](https://github.com/Tharunaditya/watch-dog/blob/main/LICENSE) file for details.
-```
+
