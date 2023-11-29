@@ -4,7 +4,7 @@ Watchdog v1.0 is a Python-based program designed for capturing and analyzing net
 
 # WatchDog Packet Analyzer
 
-![Banner](https://drive.google.com/file/d/17XXMqEEY0VcJqeg4GfvllphDwV_5olZe/view?usp=sharing?raw=true)
+![Banner](https://drive.google.com/file/d/17XXMqEEY0VcJqeg4GfvllphDwV_5olZe/view?usp=sharing)
 
 ## Overview
 
