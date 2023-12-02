@@ -46,7 +46,7 @@ WatchDog Packet Analyzer is a Python script for capturing and analyzing network 
 3. Run the WatchDog Packet Analyzer:
 
    ```bash
-   python WatchDog v1.0.py
+   python WatchDog_v1.0.py
    ```
 
 4. Follow the on-screen instructions to select a packet filter and specify the number of packets to capture.
